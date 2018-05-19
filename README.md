@@ -1,2 +1,2 @@
-# astro_arduino
-Set, Rise, Azimutal positions Sun, Moon and planets
+# Astro arduino
+Calculate set, rise, azimutal positions Sun, Moon and planets and more
